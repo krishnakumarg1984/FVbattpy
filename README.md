@@ -5,6 +5,6 @@
 [![DOI](https://zenodo.org/badge/244373966.svg)](https://zenodo.org/badge/latestdoi/244373966)
 
 
-Authors: Krishnakumar Gopalakrishnan, Ian D Campbell
+Authors: Krishnakumar Gopalakrishnan [ORCID](https://orcid.org/0000-0003-4246-8579), Ian D Campbell
 
 Please cite this work if you use this in an academic publication
